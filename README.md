@@ -1,0 +1,2 @@
+# Brazilian_E_commerce_analysis_Python-PostgreSQL
+This is a Brazilian ecommerce public dataset of orders made at Olist Store. The dataset has information of 100k orders from 2016 to 2018 made at multiple marketplaces in Brazil. The dataset has total 8 csv files includes orders, customers, products and  geological. The company needs to understand the factors affecting sales and overall impacts.
