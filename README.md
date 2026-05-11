@@ -20,7 +20,7 @@ The goal of this project was to:
 - clean raw business data
 - perform exploratory analysis
 - generate insights
-- build an interactive charts
+- build  interactive charts
 
 ---
 
@@ -28,7 +28,7 @@ The goal of this project was to:
 
 📌 Source: Kaggle / Public Dataset / Company Dataset
 
-### Dataset Includes:
+### Dataset :
 -  Order_item
 -  Customers
 -  Products
@@ -57,10 +57,14 @@ The goal of this project was to:
 - removed duplicates
 
 ## 🔍 2. Exploratory Data Analysis
-- sales trend analysis
-- customer behavior analysis
-- regional performance
-- category-wise revenue
+- ### sales trend analysis:
+-  Analyze monthly sales to understand business revenue growth.January has positive growth while June has negative growth over year 2017 and 2018, indicating seasonality trend.
+- ### customer behavior analysis:
+- To understand the customer behavior I analyze new vs repeat customer trend and found that repeat growth rate remained stable despite of growth in new customer rate throughout the analysis period.
+- ###  regional performance:
+- Observed regional performance based on generated revenue. Region South-East contributed more than 64% of total revenue. This suggested to improve sale and marketing in underperforming regions. 
+- ### category-wise revenue:
+-  Top 10 products generates more than 60% revenue. Other products are not utilized effectively or may not be as competitive.
 
 ## 📉 3. Data Visualization
 Created:
