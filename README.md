@@ -109,7 +109,6 @@ These insights can help businesses:
 | 🗄️ sql/ |  [Brazilian_E-Commerce_sql.sql](Brazilian_E-Commerce_sql.sql/)
 | Notebook/ |[EDA_performance.ipynb](EDA_performance.ipynb/)
 |  Notebook/ |[Sales_Analysis.ipynb](Sales_analysis.ipynb/)
-| 🖼️ images/ | Charts & screenshots |
 |  presentation/ | [Brazilian_E-commerce_ppt.pptx](Brazilian_E-commerce_ppt.pptx/)
 
 ---
@@ -120,4 +119,4 @@ These insights can help businesses:
  - Neha Toppo
   - Aspiring Data Analyst
   - [LinkedIn] (https://www.linkedin.com/in/neha-toppo-1a740b385/)nk  
-💻 GitHub: your-link
+    
