@@ -107,27 +107,16 @@ These insights can help businesses:
 git clone <your-github-link>
 ```
 
-## 📦 Install Dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-## ▶️ Run Notebook
-
-Open Jupyter Notebook and run files sequentially.
-
----
 
 # 📁 Project Files
 
 | File/Folder | Description |
 |-------------|-------------|
-| 🗄️ sql/ |  []
+| 🗄️ sql/ |  [Brazilian_E-Commerce_sql.sql](Brazilian_E-Commerce_sql.sql/)
 | Notebook/ |[EDA_performance.ipynb](EDA_performance.ipynb/)
 |  Notebook/ |[Sales_Analysis.ipynb](Sales_analysis.ipynb/)
 | 🖼️ images/ | Charts & screenshots |
-|  presentation/ | [Brazilian E-commerce.pptx](Brazilian E-commerce.pptx/)
+|  presentation/ | [Brazilian_E-commerce_ppt.pptx](Brazilian_E-commerce_ppt.pptx/)
 
 ---
 
