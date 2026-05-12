@@ -123,27 +123,19 @@ Open Jupyter Notebook and run files sequentially.
 
 | File/Folder | Description |
 |-------------|-------------|
-| 📂 data/
-| 📓 notebooks/ | Analysis notebooks |
-| 🗄️ sql/ | SQL queries |
-| 📊 dashboard/ | Power BI dashboard |
+| 🗄️ sql/ |  []
+| Notebook/ |[EDA_performance.ipynb](EDA_performance.ipynb/)
+|  Notebook/ |[Sales_Analysis.ipynb](Sales_analysis.ipynb/)
 | 🖼️ images/ | Charts & screenshots |
-| 📑 presentation/ | Final PPT/PDF |
+|  presentation/ | [Brazilian E-commerce.pptx](Brazilian E-commerce.pptx/)
 
 ---
 
-# 📌 Future Improvements
-
-- 🤖 Add machine learning predictions
-- 🌐 Deploy dashboard online
-- ⚡ Automate reporting pipeline
-
----
 
 # 👤 Author
 
-Neha Toppo
--Data Analyst
-
-🔗 LinkedIn: your-link  
+## Contact
+ - Neha Toppo
+  - Aspiring Data Analyst
+  - [LinkedIn] (https://www.linkedin.com/in/neha-toppo-1a740b385/)nk  
 💻 GitHub: your-link
