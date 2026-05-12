@@ -79,10 +79,14 @@ Created:
 # 💡 Key Insights
 
 Example:
-- 💻 Technology category generated highest revenue
-- 🌎 West region had strongest customer retention
-- 💸 Heavy discounts reduced profit margins
-- 🎉 Festive seasons boosted sales significantly
+- New customer has increases over the months while repeat customer line is inflated.
+- Delayed deliveries reduced  repeat customer rate, indicating the risk of increase on customer churn. 
+- Sao Paulo has highest customer, followed by Rio de Janeiro and Minas Gerais.
+- Region South-East dominates with 65.38% impact of total revenue, North and Central-West combined has less than 10% impact on total revenue.
+-  Top 10 products contribute on revenue is 63.54 %. The remaining products contribute  36.46%, meaning they are not utilized effectively or may not be as competitive. 
+
+
+
 
 ---
 
@@ -96,8 +100,6 @@ These insights can help businesses:
 
 
 ---
-
-# ▶️ How to Run This Project
 
 ## 📥 Clone Repository
 
@@ -121,7 +123,7 @@ Open Jupyter Notebook and run files sequentially.
 
 | File/Folder | Description |
 |-------------|-------------|
-| 📂 data/ | Raw & cleaned datasets |
+| 📂 data/
 | 📓 notebooks/ | Analysis notebooks |
 | 🗄️ sql/ | SQL queries |
 | 📊 dashboard/ | Power BI dashboard |
