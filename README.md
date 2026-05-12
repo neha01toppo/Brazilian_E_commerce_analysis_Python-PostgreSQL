@@ -41,12 +41,12 @@ The goal of this project was to:
 
 # 🛠️ Tools & Technologies Used
 
-| 🗄️ SQL | Extract Data and Querying |
-| 🐍 Python | Data Analysis |
-| 🐼 Pandas | Data Cleaning |
-| 📈 Matplotlib | Visualization |
-| 🎨 Seaborn | Statistical Charts |
-| 📓 Jupyter Notebook | Analysis Environment |
+- 🗄️ PostgreSQL : Extract Data and Querying 
+- 🐍 Python : Data Analysis
+- 🐼 Pandas : Data Cleaning 
+- 📈 Matplotlib : Visualization 
+- 🎨 Seaborn : Statistical Charts 
+- 📓 Jupyter Notebook :  EDA & Analysis 
 
 ---
 
