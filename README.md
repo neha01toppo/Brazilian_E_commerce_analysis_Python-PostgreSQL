@@ -68,10 +68,10 @@ The goal of this project was to:
 
 ## 📉 3. Data Visualization
 Created:
-- 📊 Bar Charts
-- 📈 Line Charts
-- 🥧 Pie Charts
-- 📌 KPI's
+- 📊 sales trend analysis: line chart
+- 📈 customer behavior analysis: 
+- 🥧 regional performance: bar chart
+- 📌 category-wise revenue: Pie chart
 
 
 ---
@@ -101,12 +101,6 @@ These insights can help businesses:
 
 ---
 
-## 📥 Clone Repository
-
-```bash
-git clone <your-github-link>
-```
-
 
 # 📁 Project Files
 
@@ -123,7 +117,6 @@ git clone <your-github-link>
 
 # 👤 Author
 
-## Contact
  - Neha Toppo
   - Aspiring Data Analyst
   - [LinkedIn] (https://www.linkedin.com/in/neha-toppo-1a740b385/)nk  
